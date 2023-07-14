@@ -1,0 +1,11 @@
+cmd: python stage_01.py
+deps:
+- path: stage_01.py
+  hash: md5
+  md5: b1b2585d553219f1577bde4ff7201cd1
+  size: 89
+outs:
+- path: artifact.txt
+  hash: md5
+  md5: c9cf6ac61d2788a4dcd5cbfbbf675704
+  size: 35
